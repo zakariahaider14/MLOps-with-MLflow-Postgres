@@ -1,0 +1,15 @@
+artifact_uri: file:///root/code/MLOps_with_MLflow_Postgres/mlruns/0/dfc3c2ede7ac418ea561df3267f2893d/artifacts
+end_time: 1732823632025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfc3c2ede7ac418ea561df3267f2893d
+run_name: logistic_regression
+run_uuid: dfc3c2ede7ac418ea561df3267f2893d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732823632010
+status: 4
+tags: []
+user_id: root
